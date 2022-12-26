@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson", "Lesson\Lesson.csproj", "{6842CD3E-FE81-4558-B9DC-8F0A348114F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Date", "Date\Date.csproj", "{EA605CEE-F243-4F35-81A0-871EE7514EC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers2", "AccessModifiers2\AccessModifiers2.csproj", "{DA5B4C43-AF1B-44DB-BC4E-7E4710817F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6842CD3E-FE81-4558-B9DC-8F0A348114F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6842CD3E-FE81-4558-B9DC-8F0A348114F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6842CD3E-FE81-4558-B9DC-8F0A348114F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6842CD3E-FE81-4558-B9DC-8F0A348114F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA605CEE-F243-4F35-81A0-871EE7514EC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA605CEE-F243-4F35-81A0-871EE7514EC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA605CEE-F243-4F35-81A0-871EE7514EC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA605CEE-F243-4F35-81A0-871EE7514EC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA5B4C43-AF1B-44DB-BC4E-7E4710817F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA5B4C43-AF1B-44DB-BC4E-7E4710817F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA5B4C43-AF1B-44DB-BC4E-7E4710817F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA5B4C43-AF1B-44DB-BC4E-7E4710817F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B90E1C23-94AE-4771-AE24-C2AA9FD7E3BF}
+	EndGlobalSection
+EndGlobal

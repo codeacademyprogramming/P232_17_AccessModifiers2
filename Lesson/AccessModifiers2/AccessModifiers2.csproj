@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Date\Date.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Lesson">
+      <HintPath>..\..\..\13. C# - Class\P232_13_Class\19122022\Lesson\bin\Debug\netcoreapp3.1\Lesson.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
